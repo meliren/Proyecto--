@@ -1,0 +1,22 @@
+body {background-color:rgb(255, 157, 157)
+
+}
+img{
+    width: 100px;
+    height: 100px;
+
+}
+h1{
+    text-transform: uppercase;
+    color: rgb(133, 0, 99);
+}
+p{ 
+    
+    font-size: 20px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    color:#5b49ff;
+    text-shadow: 1px  0px 0px black,
+                 0px -1px 0px black;
+  
+}
